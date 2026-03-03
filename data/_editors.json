@@ -1,18 +1,18 @@
 [
     {
-        "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Owner",
+        "name": "ThanhGD",
+        "link": "https://www.youtube.com/@TheRealThanhGMD"
     },
     {
-        "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Admin",
+        "name": "ThanhGD",
+        "link": "https://www.youtube.com/@TheRealThanhGMD"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "???",
+        "link": "https://www.youtube.com"
     },
     {
         "role": "trial",
@@ -21,7 +21,7 @@
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "PrometheusAlt",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
